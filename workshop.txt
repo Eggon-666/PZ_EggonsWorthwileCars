@@ -16,12 +16,15 @@ description=[b]Vehicles loudness comparing to vanilla[/b]
 description=Range of cars' loudness is the same as in vanilla, however it is allocated differently to various cars. Some cars are louder, some more silent than in vanilla (most cars are slighlty more silent).
 description=
 description=[b]Compatibility[/b]
-description=- Filibuster Rhymes' Used Cars - compatible (AFAIK)
-description=- Towing Cars - compatible (AFAIK)
-description=- Crashed Cars - compatible (AFAIK)
-description=- Paint Your Ride - compatible (AFAIK)
+description=- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1896907770]Filibuster Rhymes' Used Cars[/url] - compatible
+description=- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2282429356]Autotsar Trailers[/url] - compatible
+description=- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1539281445]Crashed Cars[/url] - compatible
+description=- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2281256511]Paint Your Ride[/url] - compatible
+description=- [url=https://steamcommunity.com/id/KI5/myworkshopfiles/?appid=108600]KI5's cars[/url] - compatible
+description=- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2621971863]Refrigerated Spiffo Van Trunk[/url] - this mod will overwrite EWC's capacity increase and loudness tweak. EWC should still prevent capacity loss on damage. 
+description=
 description=Please let me know if you identify any compatibility issues. This mod overwrites vanilla vehicles definitions and therefore will not work with other mods that do the same. It should work with mods that eg. add vehicles and don't modify existing ones (but will not impact those added cars obviously) and mods not affecting vehicles.
-description=
+description=
 description=[b]INFO FOR MODDERS![/b] Please look [url=https://steamcommunity.com/workshop/filedetails/discussion/2268384089/3118172078044800661/]here[/url] for a short instruction on how to make your custom cars compatible with this mod!
 description=
 description=[b]Adding to existing saves[/b]
